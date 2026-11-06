@@ -1,4 +1,4 @@
-# HDB Resale Price — E2E Master Directory
+# HDB Resale — E2E Master Directory
 
 ## Project Overview
 
